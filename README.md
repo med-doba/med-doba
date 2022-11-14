@@ -8,7 +8,7 @@ A key strength is Self-education and communication; building strong relationship
 Skills: 
   * C
   * C++
-  *J S
+  * JS
   * HTML
   * CSS
 
