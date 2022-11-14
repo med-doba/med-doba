@@ -6,11 +6,11 @@ I’am Digital Technologies Architect  Student at 1337 school of programming a p
 A key strength is Self-education and communication; building strong relationships with people in order to deliver and acheive the best results.
 
 Skills: 
-  *C
-  *C++
-  *JS
-  *HTML
-  *CSS
+  * C
+  * C++
+  *J S
+  * HTML
+  * CSS
 
 - 🔭 I’m currently working on this page. 
 
