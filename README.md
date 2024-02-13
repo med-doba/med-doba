@@ -22,16 +22,16 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://www.linkedin.com/in/mohammed-ed-dobaji-733708229/)](https://www.linkedin.com/in/mohammed-ed-dobaji-733708229/">Mohammed ED-DOBAJI</a></b>
+                <b><a target="_blank" href="https://www.linkedin.com/in/mohammed-ed-dobaji-733708229/">Mohammed ED-DOBAJI</a></b>
         </samp>
 </h3>
 
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
+    <a href="https://www.google.com/search?q=med-doba">「 Google Me 」</a>
     <br>
-    「 I am a full stack web application developer from <b>Bangladesh</b> 」
+    「 I am a Software developer from <b>Morocco</b> 」
     <br>
     <br>
   </samp>
