@@ -21,8 +21,8 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I am Mohammed ED-DOBAJI
-                <b><a target="_blank" href="(https://www.linkedin.com/in/mohammed-ed-dobaji-733708229/)](https://www.linkedin.com/in/mohammed-ed-dobaji-733708229/)">Mohammed ED-DOBAJI</a></b>
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" href="https://www.linkedin.com/in/mohammed-ed-dobaji-733708229/)](https://www.linkedin.com/in/mohammed-ed-dobaji-733708229/">Mohammed ED-DOBAJI</a></b>
         </samp>
 </h3>
 
