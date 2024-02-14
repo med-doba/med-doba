@@ -44,8 +44,8 @@
  <a href="https://www.linkedin.com/in/mohammed-ed-dobaji-733708229/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="med-doba"/>
  </a>
- <a href="https://dev.to/alsiam" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="med-doba" />
+ <a href="https://medium.com/" target="_blank">
+  <img src="https://img.shields.io/badge/medium-292929?style=for-the-badge&logo=medium&logoColor=white" alt="med-doba" />
  </a>
  <a href="https://twitter.com/med_eddobaji" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
