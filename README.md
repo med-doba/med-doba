@@ -37,7 +37,7 @@
   </a> 
 </p>
 <div style="display: flex; justify-content: space-between;">
-  <a href="https://badge.mediaplus.ma/greenbinary/med-doba"><img align="center" src="https://badge.mediaplus.ma/greenbinary/med-doba" alt="med-doba's 42 stats" /></a>
+  <a href="https://badge.mediaplus.ma/greenbinary/med-doba"><img align="right" src="https://badge.mediaplus.ma/greenbinary/med-doba" alt="med-doba's 42 stats" /></a>
 </div>
 <br />
 
