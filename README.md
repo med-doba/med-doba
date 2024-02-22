@@ -36,9 +36,9 @@
   <img src="https://img.shields.io/badge/upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="med-doba"  />
   </a> 
 </p>
-<div style="display: flex; justify-content: space-between;">
+<!-- <div style="display: flex; justify-content: space-between;">
   <a href="https://badge.mediaplus.ma/greenbinary/med-doba"><img align="right" src="https://badge.mediaplus.ma/greenbinary/med-doba" alt="med-doba's 42 stats" /></a>
-</div>
+</div> -->
 <br />
 
 <!-- About Section -->
@@ -51,6 +51,9 @@
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: mohaeddo03@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/med-doba/med-doba/issues)
+ <div style="display: flex; justify-content: space-between;">
+  <a href="https://badge.mediaplus.ma/greenbinary/med-doba"><img align="right" src="https://badge.mediaplus.ma/greenbinary/med-doba" alt="med-doba's 42 stats" /></a>
+</div>
 
 </p>
 
